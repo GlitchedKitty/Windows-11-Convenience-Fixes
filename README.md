@@ -3,3 +3,5 @@ The following Powershell scripts fix/remove some of Windows 11's more annoying b
 LegacyMenu - Enables the old Windows legacy right-click menu without having to click 'show more options'
 
 AlignTaskbarLeft - Exactly what it says on the tin.  Aligns the items on the taskbar to the left.  Really only needed on fresh Win11 installs.
+
+Taskbar - Aligns the taskbar left and automatically turns off the Task View and Copilot buttons from the taskbar.  Only needed for fresh Win11 installs.
